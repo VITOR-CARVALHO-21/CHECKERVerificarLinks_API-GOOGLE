@@ -1,3 +1,5 @@
+<img width="1440" height="776" alt="image" src="https://github.com/user-attachments/assets/d4b31349-7af5-4232-8637-deef3c710b6a" />
+
 # 🛡️ Verificador de Links Seguros (Google Safe Browsing)
 
 Este é um projeto simples em HTML/JavaScript que utiliza a API do Google Safe Browsing para verificar se um link é malicioso (malware, phishing, etc).
@@ -18,4 +20,5 @@ Para rodar o projeto localmente:
 - Google Safe Browsing API
 
 ## 🔒 Segurança
+
 O projeto foi estruturado seguindo boas práticas de segurança, mantendo as credenciais sensíveis fora do controle de versão via `.gitignore`.
